@@ -11,4 +11,6 @@ Recommended External Resources: No single resource is best for everyone, here ar
 
 https://quantum.country/qcvc
 
+https://quantum.country/search
+
 https://quantum-computing.ibm.com/composer/docs/iqx/guide/.
