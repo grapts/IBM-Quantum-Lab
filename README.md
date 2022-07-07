@@ -13,4 +13,8 @@ https://quantum.country/qcvc
 
 https://quantum.country/search
 
-https://quantum-computing.ibm.com/composer/docs/iqx/guide/.
+http://users.df.uba.ar/gpuentes/puentes.pdf
+
+https://quantum-computing.ibm.com/composer/docs/iqx/guide/
+
+
